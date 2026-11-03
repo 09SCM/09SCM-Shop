@@ -4,8 +4,8 @@
 
 ## 접속 주소
 
-- [GitHub Pages 소매몰 목업](https://superbeanchoi.github.io/09SCM-Shop/)
-- [대문 화면](https://superbeanchoi.github.io/09SCM-Shop/?view=unavailable) — 별도 미리보기이며 실제 소매몰 접근을 차단하지 않습니다.
+- [GitHub Pages 소매몰 목업](https://09scm.github.io/09SCM-Shop/)
+- [대문 화면](https://09scm.github.io/09SCM-Shop/?view=unavailable) — 별도 미리보기이며 실제 소매몰 접근을 차단하지 않습니다.
 
 ## 시연용 회원 정보
 
